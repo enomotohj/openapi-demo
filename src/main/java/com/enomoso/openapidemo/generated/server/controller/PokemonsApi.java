@@ -21,7 +21,7 @@ import javax.validation.constraints.*;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2021-05-05T14:33:06.125506+09:00[Asia/Tokyo]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2021-05-05T16:23:13.017292+09:00[Asia/Tokyo]")
 @Validated
 @Api(value = "pokemons", description = "the pokemons API")
 public interface PokemonsApi {

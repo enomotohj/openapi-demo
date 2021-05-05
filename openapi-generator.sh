@@ -9,4 +9,5 @@ openapi-generator generate \
     --model-package com.enomoso.openapidemo.generated.server.model \
     -g spring \
     --library spring-boot \
-    -p interfaceOnly=true,dateLibrary=java11
+    -p interfaceOnly=true \
+    -p dateLibrary=java8

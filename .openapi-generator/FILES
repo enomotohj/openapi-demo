@@ -1,0 +1,4 @@
+README.md
+src/main/java/com/enomoso/openapidemo/generated/server/controller/ApiUtil.java
+src/main/java/com/enomoso/openapidemo/generated/server/controller/PokemonsApi.java
+src/main/java/com/enomoso/openapidemo/generated/server/model/InlineResponse200.java
