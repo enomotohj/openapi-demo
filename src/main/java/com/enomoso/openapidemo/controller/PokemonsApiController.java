@@ -1,7 +1,7 @@
-package com.enomono.openapidemo.controller;
+package com.enomoso.openapidemo.controller;
 
-import com.enomono.openapidemo.model.Pokemon;
-import com.enomono.openapidemo.service.PokemonService;
+import com.enomoso.openapidemo.model.Pokemon;
+import com.enomoso.openapidemo.service.PokemonService;
 import com.enomoso.openapidemo.generated.server.controller.PokemonsApi;
 import com.enomoso.openapidemo.generated.server.model.InlineResponse200;
 

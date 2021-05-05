@@ -1,4 +1,4 @@
-package com.enomono.openapidemo;
+package com.enomoso.openapidemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

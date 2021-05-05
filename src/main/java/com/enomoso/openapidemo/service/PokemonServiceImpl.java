@@ -1,6 +1,6 @@
-package com.enomono.openapidemo.service;
+package com.enomoso.openapidemo.service;
 
-import com.enomono.openapidemo.model.Pokemon;
+import com.enomoso.openapidemo.model.Pokemon;
 
 import org.springframework.stereotype.Service;
 

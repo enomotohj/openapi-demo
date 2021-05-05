@@ -1,4 +1,4 @@
-package com.enomono.openapidemo.model;
+package com.enomoso.openapidemo.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
